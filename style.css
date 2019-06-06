@@ -10,7 +10,7 @@ html {
       rgba(160, 160, 160, 0.7),
       rgba(0, 0, 0, 0.7)
     ),
-    url("assets/images/viktor-nikolaienko-1060073-unsplash.jpg");
+    url("https://unsplash.com/photos/itcWLNmF33o");
 
   /* Set a specific height */
   height: 70%;
@@ -37,7 +37,7 @@ html {
 .hero-text {
   font-family: Raleway, sans-serif;
   font-size: 100px;
-  letter-spacing: 60px;
+  letter-spacing: 65px;
   text-align: center;
   position: absolute;
   top: 50%;
